@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "echomindr": {
+      "command": "python",
+      "args": ["echomindr_mcp.py"],
+      "env": {
+        "ECHOMINDR_API_URL": "https://echomindr.com"
+      }
+    }
+  }
+}

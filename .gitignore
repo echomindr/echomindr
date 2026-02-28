@@ -1,3 +1,11 @@
+# Echomindr — data files not included in the repo
+echomindr.db
+echomindr_logs.db
+episodes/
+*.mp3
+*.wav
+deepgram*.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

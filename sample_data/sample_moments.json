@@ -1,0 +1,278 @@
+[
+  {
+    "id": "b694b8d0-6483-47cd-be07-1cb354be8b9c",
+    "type": "lesson",
+    "timestamp": "53:24",
+    "summary": "Andy describes the practical mechanics of recruiting non-network customers for customer development interviews: use a small financial incentive (e.g., $100 Amazon gift card) targeted specifically at people who match the ideal customer profile. Even with this approach, expect only 40-50% show rates, so book 10-15 sessions to reliably get 5 conversations per week.",
+    "quote": "We would focus on somebody who wasn't in our network, but whose characteristics fit our ideal customer profile. And even by doing that... we'd still only get about 40 or 50% of them that would show up.",
+    "decision": "Used $100 Amazon gift cards targeted at ICP-matched non-network prospects to recruit customer development interview participants.",
+    "outcome": "Achieved roughly 40-50% show rates, requiring booking 10-15 sessions to reliably complete 5 customer interviews per week.",
+    "lesson": "Customer development recruiting outside your network requires financial incentive plus ICP filtering and should be planned with a 2x booking buffer to account for no-shows.",
+    "stage": "mvp",
+    "situation": "Wealthfront had exhausted warm network referrals for customer development and needed to reach outside the personal network to validate assumptions.",
+    "tags": [
+      "customer-development",
+      "user-research",
+      "recruiting-tactics",
+      "financial-incentives",
+      "show-rate",
+      "interview-ops"
+    ],
+    "source": {
+      "podcast": "Traction",
+      "episode": "Building Flywheels for Unstoppable Organic Growth - Andy Johns",
+      "guest": "Andy Johns, Growth Advisor (former Facebook, Twitter, Quora)",
+      "date": "2020-09-18",
+      "url": "https://www.youtube.com/watch?v=Xg0JT3zjlaI",
+      "url_at_moment": "https://www.youtube.com/watch?v=Xg0JT3zjlaI&t=3204s"
+    }
+  },
+  {
+    "id": "0cbbf6ba-619d-4822-8167-c136cd5cadfa",
+    "type": "problem",
+    "timestamp": "4:05",
+    "summary": "Five years into running his business, Scudamore realized he had built a toxic culture. Of 11 employees, approximately 9 were 'bad apples.' He made the drastic decision to fire the entire team and start over, while publicly taking ownership of the failure rather than blaming the employees.",
+    "quote": "I had 11 employees, and they say one bad apple spoils the whole bunch. I had probably nine bad apples and decided to get rid of the team and start again, but I owned that decision.",
+    "decision": "Fired nearly the entire team of 11 employees and rebuilt from scratch, taking personal responsibility for hiring the wrong people",
+    "outcome": "The experience inspired him to move into franchising and develop a more intentional approach to culture-building",
+    "lesson": "When culture goes wrong, the leader must own responsibility for poor hiring decisions, not blame employees",
+    "stage": "traction",
+    "situation": "Company was five years old but had developed a deeply toxic internal culture with the wrong people in place",
+    "tags": [
+      "toxic-culture",
+      "hiring-mistakes",
+      "team-reset",
+      "culture-turnaround",
+      "founder-accountability"
+    ],
+    "source": {
+      "podcast": "Louis Carter: Leading Organizational Change",
+      "episode": "02E Brands (800-GOT-JUNK) CEO Brian Scudamore on Creating an Entrepreneurial Culture",
+      "guest": "Brian Scudamore, Founder & CEO, 1-800-GOT-JUNK",
+      "date": "2021-11-21",
+      "url": "https://www.youtube.com/watch?v=D8D8IxYIgHM",
+      "url_at_moment": "https://www.youtube.com/watch?v=D8D8IxYIgHM&t=245s"
+    }
+  },
+  {
+    "id": "bd2d2fc2-ae70-4318-a081-c023cbeccc93",
+    "type": "decision",
+    "timestamp": "20:19",
+    "summary": "Canva deliberately coupled their crazy big goals with memorable, fun celebrations when milestones were achieved — including smashing Greek plates, releasing doves, and hosting a mini La Tomatina festival. These celebrations were timed to coincide with specific milestone achievements like launching in Spanish or hitting 100 languages.",
+    "quote": "We attempt to make the crazy big goals happen in a moment in time. So then when we achieve them, we actually have a really fun moment. Because if you're just trying to plod towards the top of the mountain always, and you never take a little moment to pat yourself on the back, it would feel a little arduous.",
+    "decision": "Create specific, memorable, and fun team celebrations tied to each major milestone achievement",
+    "outcome": "Created a culture of motivation where teams worked hard to hit goals, had moments of shared pride, and felt the meaning of their work",
+    "lesson": "Celebrating goals as events in time gives teams a moment to feel proud, sustains motivation for long journeys, and reinforces what the company values",
+    "stage": "traction",
+    "situation": "Canva was expanding across languages, devices, and product areas and needed ways to sustain team motivation over a long mission",
+    "tags": [
+      "team-culture",
+      "goal-celebration",
+      "milestone-rituals",
+      "employee-motivation",
+      "company-building"
+    ],
+    "source": {
+      "podcast": "Lenny's Podcast",
+      "episode": "She turned 100+ rejections into a $42B company | Melanie Perkins",
+      "guest": "Melanie Perkins, Co-founder & CEO, Canva",
+      "date": "2025-11-02",
+      "url": "https://www.youtube.com/watch?v=-LywX3T5Scc",
+      "url_at_moment": "https://www.youtube.com/watch?v=-LywX3T5Scc&t=1219s"
+    }
+  },
+  {
+    "id": "95d4727f-542c-49eb-994f-bab534b766f2",
+    "type": "decision",
+    "timestamp": "1:01:19",
+    "summary": "Alan made the difficult decision to leave Revolut before its IPO, despite wanting to stay for it. He told Nick directly on a Friday afternoon, and Nick asked him three times if he was sure before accepting his decision. Nick later invested in Fuse's most recent round.",
+    "quote": "It was a very, very hard moment. And he asked me, are you sure? Three times. And I said, I'm sure.",
+    "decision": "Left Revolut to found Fuse Energy, forgoing the Revolut IPO upside.",
+    "outcome": "Founded Fuse Energy, which reached £200M+ revenue. Nick Storonsky later invested in Fuse's most recent round.",
+    "lesson": "Leaving a high-trajectory company to found your own is one of the hardest founder decisions, but the relationships built there — including with the founder you left — can become assets in your next venture.",
+    "stage": "mature",
+    "situation": "Alan was a senior leader at Revolut during a high-growth phase, and chose to leave to start Fuse rather than wait for the IPO.",
+    "tags": [
+      "founder-transition",
+      "leaving-revolut",
+      "career-decision",
+      "startup-founding",
+      "founder-relationships"
+    ],
+    "source": {
+      "podcast": "20VC with Harry Stebbings",
+      "episode": "Fuse CEO Alan Chang: The Revolut Playbook of Speed & Ownership, Why Founders Aren’t Ambitious Enough",
+      "guest": "Alan Chang, Founder & CEO, Fuse Energy",
+      "date": "2026-01-05",
+      "url": "https://www.youtube.com/watch?v=T4-sSCxiU4c",
+      "url_at_moment": "https://www.youtube.com/watch?v=T4-sSCxiU4c&t=3679s"
+    }
+  },
+  {
+    "id": "8867712e-fdff-4251-92cf-af1e952f6d21",
+    "type": "decision",
+    "timestamp": "1:01:31",
+    "summary": "When implementing pricing, Figma initially limited the starter team to unlimited files but only 2-3 collaborators. They later realized this was throttling the product's viral growth engine, and switched to unlimited collaborators but limited files. This change had a measurable and significant impact on team adoption.",
+    "quote": "We switched it, and now it's like you can have something like three files, but unlimited collaborators. And that was huge for us. You could see it in the metrics very clearly, where it's like, oh, this is really easy for people now to share before they just start paying.",
+    "decision": "Change freemium pricing from 'unlimited files, limited collaborators' to 'limited files, unlimited collaborators' to remove friction from the viral sharing mechanism",
+    "outcome": "Adoption of team-level usage accelerated significantly, visible clearly in metrics; teams could now build confidence in the product before hitting a paywall",
+    "lesson": "Don't let pricing gates block the core viral mechanism of your product; if the product grows through sharing, you must allow unlimited sharing before charging",
+    "stage": "traction",
+    "situation": "Figma had implemented pricing roughly two years after launch; the initial packaging was inadvertently limiting the bottoms-up spread of the product within teams",
+    "tags": [
+      "freemium-pricing",
+      "pricing-strategy",
+      "viral-growth",
+      "packaging",
+      "bottoms-up-growth",
+      "product-led-growth",
+      "pricing-change"
+    ],
+    "source": {
+      "podcast": "Lenny's Podcast",
+      "episode": "An inside look at Figma’s unique GTM motion",
+      "guest": "Claire Butler",
+      "date": "2023-09-07",
+      "url": "https://www.youtube.com/watch?v=UmirRfy-gzA",
+      "url_at_moment": "https://www.youtube.com/watch?v=UmirRfy-gzA&t=3691s"
+    }
+  },
+  {
+    "id": "a0f23c21-f2c3-4f90-a4a0-61f860f4344f",
+    "type": "decision",
+    "timestamp": "5:55",
+    "summary": "As a post-graduation differentiator, the founders built an exclusive mentor network accessible only to Zero to Engineer alumni. The network includes engineers from companies like Uber, Cisco, Riot Games, and SolarWinds, offering 15–20 minute career advisory calls. This was positioned as a key moat against generic course platforms.",
+    "quote": "Our mentor network is very unique that actually once the student graduates and becomes a Zero to Engineer alumni, they get to unlock this mentor network.",
+    "decision": "Built an alumni-only mentor network as a post-graduation benefit to differentiate from competitors like Udemy and LinkedIn Learning.",
+    "outcome": null,
+    "lesson": null,
+    "stage": "traction",
+    "situation": "The founders were explaining their competitive differentiation in their YC pitch, contrasting their structured program against generic certification platforms.",
+    "tags": [
+      "differentiation",
+      "mentor-network",
+      "alumni-community",
+      "competitive-moat",
+      "edtech"
+    ],
+    "source": {
+      "podcast": "Founders Unscripted w/ Terry Kim",
+      "episode": "Getting Accepted Into Y Combinator - The Most Famous Startup Accelerator",
+      "guest": "Dalton Caldwell & Michael Seibel, Partners, Y Combinator",
+      "date": "2022-11-02",
+      "url": "https://www.youtube.com/watch?v=xsZNaePbbTg",
+      "url_at_moment": "https://www.youtube.com/watch?v=xsZNaePbbTg&t=355s"
+    }
+  },
+  {
+    "id": "971e25cb-17b9-4d7a-8b39-c012c19da3e6",
+    "type": "lesson",
+    "timestamp": "59:07",
+    "summary": "Munger describes the Buffalo Evening News acquisition as one of his finest hours under pressure: he aggressively pushed to launch a Sunday edition against a competitor, which sparked a legal battle and near-catastrophic consequences, but ultimately the competitor went broke and Berkshire won the local monopoly.",
+    "quote": "I was very aggressive about wanting to have a good Sunday edition. I didn't wanna own the paper for fifty years with no Sunday edition when the other guy had one.",
+    "decision": "Pushed strongly for launching the Buffalo Evening News Sunday edition despite the competitive and legal risks.",
+    "outcome": "The competitor went bankrupt and Buffalo Evening News became the dominant local paper with monopoly economics.",
+    "lesson": "When you have identified the strategic action required to win a local monopoly, aggressive execution — even at significant risk — is often the correct call.",
+    "stage": "traction",
+    "situation": "Berkshire had acquired the Buffalo Evening News and faced a well-entrenched competitor; the Sunday edition launch was the key strategic lever to compete for the local monopoly.",
+    "tags": [
+      "Buffalo-Evening-News",
+      "local-monopoly",
+      "competitive-aggression",
+      "newspaper-business",
+      "strategic-risk",
+      "early-Berkshire"
+    ],
+    "source": {
+      "podcast": "Acquired",
+      "episode": "Charlie Munger (Audio)",
+      "guest": "Ben Gilbert & David Rosenthal, Hosts, Acquired",
+      "date": "2023-10-30",
+      "url": "https://www.youtube.com/watch?v=w6qRb171cog",
+      "url_at_moment": "https://www.youtube.com/watch?v=w6qRb171cog&t=3547s"
+    }
+  },
+  {
+    "id": "425e7417-777d-44dd-b0a1-c6dd478c4d2a",
+    "type": "lesson",
+    "timestamp": "2:02:11",
+    "summary": "AWS missed the data warehouse market, allowing Snowflake to become a $50B company storing data on AWS infrastructure. The failure is attributed to two causes: big-company constraints (security requirements, SLA commitments) hamstringing product decisiveness, and fighting the last battle (attacking Oracle-style data warehouses) rather than serving a new customer segment with different needs.",
+    "quote": "They're fighting the last battle with Redshift. It's, hey, take your Oracle style data warehouse and basically do that in the cloud, rather than lots and lots of Snowflake customers never would have become Oracle customers.",
+    "decision": null,
+    "outcome": "Snowflake became a standalone $50B+ company despite running on top of AWS infrastructure, representing AWS's largest single market failure.",
+    "lesson": "Market leaders can miss adjacent opportunities by optimizing their new products for their current customers' migration needs rather than recognizing entirely new customer segments with different requirements.",
+    "stage": "mature",
+    "situation": "AWS had dominant market position in cloud infrastructure but failed to capture the cloud data warehouse market, which Snowflake won by targeting a different customer profile with a developer-friendly product.",
+    "tags": [
+      "snowflake",
+      "market-miss",
+      "data-warehouse",
+      "innovators-dilemma",
+      "new-customer-segment",
+      "product-strategy",
+      "redshift"
+    ],
+    "source": {
+      "podcast": "Acquired",
+      "episode": "Amazon Web Services",
+      "guest": "Ben Gilbert & David Rosenthal, Hosts, Acquired",
+      "date": "2022-09-06",
+      "url": "https://www.youtube.com/watch?v=APvj15_YCqk",
+      "url_at_moment": "https://www.youtube.com/watch?v=APvj15_YCqk&t=7331s"
+    }
+  },
+  {
+    "id": "0720ef51-905a-4c72-b8d9-cfc22be81880",
+    "type": "decision",
+    "timestamp": "52:48",
+    "summary": "Rippling's PM interview process is deliberately short: an initial contact, a conversation with the hiring manager, a product discussion with Jeremy, and a case study. A key element is that the case study is intentionally too complex to fully solve upfront, so interviewers can observe how candidates react to new assumptions and changing information in real time.",
+    "quote": "An important part of the case study is that it's actually too complex for people to have all of the answers up front. It's just like the space of the problem is too large to do that, which means that in the interview, there's a lot of opportunities to just ask ad hoc questions or to change one assumption. And seeing how people react to that is really indicative of how deeply they understand a new problem.",
+    "decision": "Designed PM interview case studies to be intentionally unsolvable upfront to test real-time adaptability rather than preparation.",
+    "outcome": "This approach surfaces whether candidates can rapidly generate implications from new assumptions — a core skill for Rippling's fast-moving environment.",
+    "lesson": "Testing how candidates react to changing assumptions in real time reveals mental agility better than evaluating polished prepared answers.",
+    "stage": "scale",
+    "situation": "Rippling needed to hire PMs who could operate at high velocity and make good decisions with incomplete information.",
+    "tags": [
+      "pm-hiring",
+      "interview-design",
+      "mental-agility",
+      "candidate-evaluation",
+      "adaptability"
+    ],
+    "source": {
+      "podcast": "Lenny's Podcast",
+      "episode": "Moving fast and navigating uncertainty",
+      "guest": "Jeremy Henrickson",
+      "date": "2023-06-04",
+      "url": "https://www.youtube.com/watch?v=O_W76LR77Vw",
+      "url_at_moment": "https://www.youtube.com/watch?v=O_W76LR77Vw&t=3168s"
+    }
+  },
+  {
+    "id": "8ec3f85c-a00b-46be-9996-679f3e585161",
+    "type": "lesson",
+    "timestamp": "29:10",
+    "summary": "Mackey discovered through experience at Whole Foods that growing faster than approximately 24% per year caused serious cultural dilution — the company was bringing people in faster than it could enculturate them. He uses the Rule of 72 to illustrate how growth rate affects how quickly a company doubles in size.",
+    "quote": "I actually found at Whole Foods when we started to grow more than about 24% a year, our culture began to get seriously diluted. We were bringing people in before we can enculturate them.",
+    "decision": "Consciously managed Whole Foods' growth rate to stay at or below 24% annually to preserve cultural integrity",
+    "outcome": "Whole Foods maintained a strong culture over decades of growth, which became a core competitive advantage",
+    "lesson": "There is an optimal growth rate for any organization beyond which culture collapses; scaling too fast means you cannot transmit values fast enough to new hires",
+    "stage": "scale",
+    "situation": "Whole Foods was one of the fastest-growing grocery chains in the US and Mackey was managing the tension between growth ambition and cultural preservation",
+    "tags": [
+      "culture-preservation",
+      "growth-rate",
+      "scaling-limits",
+      "organizational-culture",
+      "rule-of-72"
+    ],
+    "source": {
+      "podcast": "Rich Roll",
+      "episode": "Powerful Wisdom From The Man Behind Whole Foods Market | John Mackey X Rich Roll Podcast",
+      "guest": "John Mackey, Co-founder & CEO, Whole Foods Market",
+      "date": "2024-09-05",
+      "url": "https://www.youtube.com/watch?v=_7ol2tsvxw4",
+      "url_at_moment": "https://www.youtube.com/watch?v=_7ol2tsvxw4&t=1750s"
+    }
+  }
+]
