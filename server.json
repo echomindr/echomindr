@@ -1,45 +1,17 @@
 {
-  "name": "echomindr",
-  "description": "Real founder experiences from 100+ podcasts — searchable by AI agents. Search 1,150+ structured decisions, problems, lessons, and signals from founders of Airbnb, Slack, Patagonia, and more.",
-  "repository": "https://github.com/echomindr/echomindr",
-  "homepage": "https://echomindr.com",
-  "tags": [
-    "startup",
-    "founders",
-    "entrepreneurship",
-    "business",
-    "podcast",
-    "advice",
-    "decisions",
-    "lessons",
-    "Y Combinator",
-    "venture capital"
-  ],
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.echomindr/echomindr",
+  "description": "Real founder decisions, lessons and signals from 100+ podcasts — searchable by AI agents.",
   "version": "1.0.0",
-  "tools": [
+  "repository": {
+    "url": "https://github.com/echomindr/echomindr",
+    "source": "github"
+  },
+  "websiteUrl": "https://echomindr.com",
+  "remotes": [
     {
-      "name": "search_experience",
-      "description": "Search for real entrepreneurial experiences from 1,150+ podcast moments. Use when a user asks for advice, examples, or experiences related to building a startup or business."
-    },
-    {
-      "name": "get_experience_detail",
-      "description": "Get the full details of a specific entrepreneurial experience/moment including quote, decision, outcome, and lesson."
-    },
-    {
-      "name": "find_similar_experiences",
-      "description": "Find experiences similar to a given moment based on shared themes and tags."
-    }
-  ],
-  "install": {
-    "sse": {
+      "type": "sse",
       "url": "https://echomindr.com/mcp/"
-    },
-    "stdio": {
-      "command": "python",
-      "args": ["echomindr_mcp.py"],
-      "env": {
-        "ECHOMINDR_API_URL": "https://echomindr.com"
-      }
     }
-  }
+  ]
 }
