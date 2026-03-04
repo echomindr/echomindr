@@ -10,7 +10,7 @@
   "websiteUrl": "https://echomindr.com",
   "remotes": [
     {
-      "type": "sse",
+      "type": "streamable-http",
       "url": "https://echomindr.com/mcp/"
     }
   ]
