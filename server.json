@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.echomindr/echomindr",
-  "description": "Real founder decisions, lessons and signals from 100+ podcasts — searchable by AI agents.",
-  "version": "1.0.0",
+  "description": "Real founder experiences and concrete facts from 100+ podcasts — searchable by AI agents. 1150+ founder stories (decisions, lessons, signals) + 1000+ quantitative facts (metrics, prices, MOQ, ROAS, timelines) from How I Built This, Lenny's Podcast, Acquired, YC, and more.",
+  "version": "1.1.0",
   "repository": {
     "url": "https://github.com/echomindr/echomindr",
     "source": "github"
