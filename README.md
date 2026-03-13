@@ -1,6 +1,6 @@
 # Echomindr
 
-**1150+ real founder moments from 100+ podcasts — searchable by AI agents.**
+**3,500+ real founder moments from 60+ podcasts — searchable by AI agents.**
 
 Each moment: a named founder, a verbatim quote, a decision taken, an outcome observed, a lesson extracted — with a timestamped link to the source. Not summaries. Not paraphrases. What actually happened.
 
@@ -69,11 +69,11 @@ https://echomindr.com/llms.txt
 
 ## Data
 
-- **1,150+ moments** from 100+ podcast episodes
+- **3,500+ moments** from 340+ podcast episodes across 60+ shows
 - **52 canonical situations** across 10 thematic families (PMF, growth, pricing, fundraising, team, operations, resilience, strategy, founder psychology, hostile environments)
 - **5 moment types:** decision, problem, lesson, signal, advice
 - **5 stages:** idea, mvp, traction, scale, mature
-- Sources: How I Built This, Lenny's Podcast, 20 Minute VC, Acquired, Y Combinator, My First Million, Silicon Carne, Startup Ministerio, Kevin Kamis, Wall Street Paper, Valy Sy (China), Matt & Ari (Canada), Oscar Lindhardt (Denmark), Aidan Walsh (USA)
+- Sources: How I Built This, Lenny's Podcast, 20 Minute VC, Acquired, Y Combinator, My First Million, GDIY (Génération Do It Yourself), Disrupting Japan, Silicon Carne, Startup Ministerio, Kevin Kamis, Wall Street Paper, Valy Sy (China), Matt & Ari (Canada), Oscar Lindhardt (Denmark), Aidan Walsh (USA)
 
 Each moment: summary · verbatim quote · decision · outcome · lesson · stage · tags · timestamp link
 
